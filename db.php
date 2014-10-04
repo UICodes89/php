@@ -14,5 +14,5 @@ public class connection{
 
 }
 $connect=new connection();
-
+echo"manoj";
 ?>
